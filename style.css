@@ -5,6 +5,11 @@
     background-position: bottom right;
 }
 
+.portfolio {
+width:700px;
+height:700px;
+}
+
 body {
     font-family: sans-serif;
 }
